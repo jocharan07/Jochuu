@@ -1,0 +1,5 @@
+Hi, I'm  G.Jyothicharan, a passionate DevOps enthusiast and aspiring cloud engineer. I love building efficient CI/CD pipelines, automating workflows, and visualizing complex systems to make development smoother and smarter.
+
+Currently exploring tools like diagrams.net to represent lifecycle stages and improve team collaboration. I'm also diving into GitHub projects to sharpen my version control and deployment skills.
+
+Let’s connect and build something awesome together!
